@@ -1,0 +1,695 @@
+[
+    {
+        "question": "Tổ chức nào ban hành các tiêu chuẩn hàng không quốc tế?",
+        "answers": ["ICAO","IATA", "WTO", "FAA"],
+        "correct": 0
+    },
+    {
+        "question": "Hiệp định Chicago năm 1944 quy định về:",
+        "answers": [" Bảo hiểm hàng không","Quy chế khai thác không phận","Quy tắc hoạt động hàng không dân dụng quốc tế", "Tất cả các đáp án trên"],
+        "correct": 2
+    },
+    {
+        "question": "Luật Hàng không Dân dụng Việt Nam được ban hành lần đầu vào năm:",
+        "answers": ["1991", "1995", "2006", "2014"],
+        "correct": 2
+    },
+    {
+        "question": "Pháp luật hàng không dân dụng thuộc lĩnh vực nào?",
+        "answers": [" Luật thương mại", " Luật dân sự", "Luật công", " Kết hợp giữa luật công và luật tư"],
+        "correct": 3
+    },
+    {
+        "question": "Trong trường hợp phát hiện chất nổ, bước đầu tiên là:",
+        "answers": [" Di tản hành khách", "Báo cáo cơ quan an ninh", "Cách ly khu vực nguy hiểm", "Cả B và C"],
+        "correct": 3
+    },
+    {
+        "question": "Ai là người có thẩm quyền mở, đóng cảng hàng không, sân bay?",
+        "answers": ["Công An", "Hãng hàng không", "Thủ tướng chính phủ", "Chủ tịch hội đồng quản trị của doanh nghiệp kinh doanh vận chuyển hàng không"],
+        "correct": 2
+    },
+    {
+        "question": "Quy định pháp luật nào áp dụng khi xảy ra tai nạn hàng không quốc tế?",
+        "answers": ["Hiệp định Montreal", "Hiệp định Warsaw", "Cả hai", "Không áp dụng"],
+        "correct": 2
+    },
+    {
+        "question": "Vi phạm hành chính trong an ninh hàng không có thể bị xử phạt đến:",
+        "answers": ["50 triệu đồng", "100 triệu đồng", "200 triệu đồng", "Tùy mức độ vi phạm"],
+        "correct": 3
+    },
+    {
+        "question": "Hành vi gây rối trên máy bay bị xử lý như thế nào?",
+        "answers": ["Phạt tiền", "Cấm bay", "Truy tố hình sự", "Tùy mức độ, có thể áp dụng cả 3 biện pháp trên"],
+        "correct": 3
+    },
+    {
+        "question": "Quy định pháp luật yêu cầu phi hành đoàn:",
+        "answers": ["Chỉ cần có bằng cấp tối thiểu", "Đáp ứng đủ yêu cầu kỹ thuật và an toàn", "Tham gia đào tạo định kỳ", "Cả B và C"],
+        "correct": 3
+    },
+    {
+        "question": "Trách nhiệm báo cáo tai nạn hàng không thuộc về:",
+        "answers": ["Cục Hàng không", "Hãng hàng không liên quan", "ICAO", "Cả A và B"],
+        "correct": 3
+    },
+    {
+        "question": "Tổ chức nào giám sát và xác định các mối nguy an ninh hàng không?",
+        "answers": ["Cục Hàng không", "Bộ Công an", "ICAO", "Cả A và C"],
+        "correct": 3
+    },
+    
+    {
+        "question": "Pháp luật hàng không dân dụng thuộc lĩnh vực nào?",
+        "answers": ["Luật thương mại", "Luật dân sự", "Luật công", "Kết hợp giữa luật công và luật tư"],
+        "correct": 3
+    },
+    {
+        "question": "Nguyên tắc cơ bản của pháp luật hàng không dân dụng là gì?",
+        "answers": ["Tự do hàng không", "Chủ quyền quốc gia trên không phận", "Tự do thương mại", "Phát triển bền vững"],
+        "correct": 1
+    },
+    {
+        "question": "Cơ quan nào chịu trách nhiệm quản lý nhà nước về hàng không dân dụng tại Việt Nam?",
+        "answers": ["Bộ Công Thương", "Bộ Giao thông Vận tải", "Cục Hàng không Việt Nam", "Bộ Quốc phòng"],
+        "correct": 2
+    },
+    {
+        "question": "Hiệp định Chicago năm 1944 đã đặt nền móng cho tổ chức nào?",
+        "answers": ["IATA", "ICAO", "WTO", "UNESCO"],
+        "correct": 1
+    },
+    {
+        "question": "Loại quyền nào sau đây là quyền căn bản của quốc gia trong không phận của mình?",
+        "answers": ["Quyền tự do bay qua", "Quyền chủ quyền hoàn toàn và riêng biệt", "Quyền quản lý thương mại", "Quyền vận chuyển quốc tế"],
+        "correct": 1
+    },
+    {
+        "question": "Để được cấp giấy phép vận chuyển hàng không, doanh nghiệp cần đáp ứng yêu cầu nào?",
+        "answers": ["Có đội tàu bay đủ tiêu chuẩn", "Có vốn pháp định theo quy định", "Có phương án kinh doanh hiệu quả", "Tất cả các yêu cầu trên"],
+        "correct": 3
+    },
+    {
+        "question": "Yếu tố nào sau đây không thuộc điều kiện an toàn hàng không?",
+        "answers": ["Kiểm tra kỹ thuật định kỳ", "Đảm bảo hành lý khách hàng", "Đào tạo phi công", "Quản lý không lưu"],
+        "correct": 1
+    },
+    {
+        "question": "Cơ quan nào chịu trách nhiệm giám sát an toàn hàng không tại Việt Nam?",
+        "answers": ["Cục An toàn Hàng không", "Cục Hàng không Việt Nam", "Bộ Giao thông Vận tải", "Tổng cục Đường không"],
+        "correct": 1
+    },
+    {
+        "question": "Trong trường hợp khẩn cấp, quyền ưu tiên nào được áp dụng trên không phận?",
+        "answers": ["Quyền ưu tiên cứu hộ", "Quyền ưu tiên bay qua", "Quyền ưu tiên thương mại", "Quyền ưu tiên hàng hóa"],
+        "correct": 0
+    },
+    {
+        "question": "Theo quy định pháp luật, việc vận chuyển hàng nguy hiểm yêu cầu điều kiện gì?",
+        "answers": ["Được cấp phép đặc biệt", "Có ký hiệu quốc tế", "Có đội ngũ chuyên trách", "Tất cả các điều kiện trên"],
+        "correct": 3
+    },
+    {
+        "question": "Loại hợp đồng nào thường áp dụng cho vận chuyển hàng không quốc tế?",
+        "answers": ["Hợp đồng miệng", "Hợp đồng bảo hiểm", "Hợp đồng vận chuyển bằng văn bản", "Không cần hợp đồng"],
+        "correct": 2
+    },
+    {
+        "question": "Hành khách có quyền khiếu nại khi xảy ra vấn đề gì?",
+        "answers": ["Chậm chuyến", "Hành lý bị mất hoặc hư hỏng", "Hủy chuyến", "Tất cả các vấn đề trên"],
+        "correct": 3
+    },
+    {
+        "question": "Thời hạn khiếu nại về hành lý bị mất là bao nhiêu ngày theo pháp luật?",
+        "answers": ["3 ngày", "7 ngày", "14 ngày", "30 ngày"],
+        "correct": 1
+    },
+    {
+        "question": "Điều kiện cần thiết để hành khách được bồi thường khi bị từ chối lên máy bay là gì?",
+        "answers": ["Có vé hợp lệ", "Có mặt đúng giờ làm thủ tục", "Không vi phạm quy định an ninh", "Tất cả các điều kiện trên"],
+        "correct": 3
+    },
+    {
+        "question": "Hợp đồng vận chuyển hàng không được điều chỉnh bởi luật quốc gia nào?",
+        "answers": ["Luật quốc gia nơi đặt trụ sở hãng hàng không", "Luật quốc gia của hành khách", "Luật quốc gia nơi ký hợp đồng", "Các quy định quốc tế và luật quốc gia liên quan"],
+        "correct": 3
+    },
+    {
+        "question": "Hiệp định nào sau đây quy định quyền tự do hàng không quốc tế?",
+        "answers": ["Hiệp định Geneva", "Hiệp định Chicago", "Hiệp định Montreal", "Hiệp định Tokyo"],
+        "correct": 1
+    },
+    {
+        "question": "Hiệp định Montreal năm 1999 quy định về vấn đề gì?",
+        "answers": ["An toàn hàng không", "Bồi thường thiệt hại hàng không", "Tự do hàng không", "Bảo vệ môi trường"],
+        "correct": 1
+    },
+    {
+        "question": "Quyền tự do hàng không thứ năm cho phép điều gì?",
+        "answers": ["Bay qua lãnh thổ nước khác", "Hạ cánh kỹ thuật tại nước khác", "Chở hàng hóa hoặc hành khách giữa hai nước không phải nước gốc", "Mở đường bay nội địa tại nước khác"],
+        "correct": 2
+    },
+    {
+        "question": "Quốc gia nào là thành viên sáng lập của ICAO?",
+        "answers": ["Anh", "Mỹ", "Pháp", "Tất cả các quốc gia trên"],
+        "correct": 3
+    },
+    {
+        "question": "ICAO được viết tắt của cụm từ nào?",
+        "answers": ["International Civil Air Organization", "International Commercial Air Organization", "International Civil Aviation Organization", "International Commerce Aviation Organization"],
+        "correct": 2
+    },
+    {
+        "question": "Tàu bay đăng ký tại Việt Nam phải đáp ứng điều kiện gì?",
+        "answers": ["Thuộc sở hữu của người Việt Nam", "Đáp ứng tiêu chuẩn an toàn", "Được cấp chứng nhận đủ điều kiện bay", "Tất cả các điều kiện trên"],
+        "correct": 3
+    },
+    {
+        "question": "Phi công muốn lái tàu bay thương mại cần có chứng chỉ nào?",
+        "answers": ["Giấy phép hành nghề phi công", "Chứng nhận đào tạo an toàn", "Giấy phép quốc tế", "Tất cả các giấy tờ trên"],
+        "correct": 0
+    },
+    {
+        "question": "Thời gian làm việc tối đa của phi hành đoàn trong ngày là bao nhiêu giờ?",
+        "answers": ["8 giờ", "10 giờ", "12 giờ", "14 giờ"],
+        "correct": 2
+    },
+    {
+        "question": "Ai chịu trách nhiệm cuối cùng về an toàn bay trên tàu bay?",
+        "answers": ["Phi công trưởng", "Nhân viên kỹ thuật", "Cục Hàng không", "Hãng hàng không"],
+        "correct": 0
+    },
+    {
+        "question": "Tàu bay không đủ điều kiện bay có thể được sử dụng trong trường hợp nào?",
+        "answers": ["Bay thử nghiệm", "Bay cứu hộ", "Bay huấn luyện", "Không được phép sử dụng"],
+        "correct": 3
+    },
+    {
+        "question": "Chương trình an ninh hàng không quốc gia bao gồm những nội dung nào?",
+        "answers": ["Kiểm tra an ninh tại sân bay", "Đào tạo nhân viên an ninh", "Phối hợp giữa các cơ quan liên quan", "Tất cả các nội dung trên"],
+        "correct": 3
+    },
+    {
+        "question": "Mục đích chính của quản lý an toàn hàng không là gì?",
+        "answers": ["Đảm bảo hiệu quả kinh tế", "Đảm bảo sự hài lòng của hành khách", "Đảm bảo an toàn cho hành khách, tàu bay và hàng hóa", "Đảm bảo tuân thủ quy định pháp luật"],
+        "correct": 2
+    },
+    {
+        "question": "Ai chịu trách nhiệm giám sát an ninh tại các cảng hàng không?",
+        "answers": ["Cục Hàng không", "Hãng hàng không", "Sân bay", "Cơ quan an ninh hàng không"],
+        "correct": 3
+    },
+    {
+        "question": "Các biện pháp kiểm tra an ninh thường áp dụng đối với hành khách bao gồm gì?",
+        "answers": ["Kiểm tra hành lý xách tay", "Kiểm tra cơ thể bằng thiết bị", "Quét hành lý ký gửi", "Tất cả các biện pháp trên"],
+        "correct": 3
+    },
+    {
+        "question": "Thời hạn lưu trữ dữ liệu từ camera giám sát tại sân bay là bao lâu?",
+        "answers": ["7 ngày", "15 ngày", "30 ngày", "60 ngày"],
+        "correct": 2
+    },
+    {
+        "question": "Loại hàng hóa nào bị cấm vận chuyển bằng đường hàng không?",
+        "answers": ["Vũ khí", "Chất nổ", "Chất phóng xạ", "Tất cả các loại trên"],
+        "correct": 3
+    },
+    {
+        "question": "Thời gian tối đa để khiếu nại về việc hàng hóa bị mất mát là bao nhiêu ngày?",
+        "answers": ["3 ngày", "7 ngày", "14 ngày", "21 ngày"],
+        "correct": 1
+    },
+    {
+        "question": "Hàng hóa nguy hiểm cần tuân thủ quy định nào khi vận chuyển?",
+        "answers": ["Quy định IATA DGR", "Quy định ICAO", "Quy định của hãng hàng không", "Tất cả các quy định trên"],
+        "correct": 3
+    },
+    {
+        "question": "Ai có trách nhiệm chính trong việc đóng gói hàng hóa nguy hiểm?",
+        "answers": ["Người gửi hàng", "Hãng hàng không", "Sân bay", "Nhân viên bốc xếp"],
+        "correct": 0
+    },
+    {
+        "question": "Hàng hóa vận chuyển quốc tế cần tuân thủ hiệp định nào?",
+        "answers": ["Hiệp định Geneva", "Hiệp định Montreal", "Hiệp định Chicago", "Hiệp định Tokyo"],
+        "correct": 1
+    },
+    {
+        "question": "Pháp luật hàng không dân dụng thuộc lĩnh vực nào?",
+        "answers": ["Luật thương mại", "Luật dân sự", "Luật công", "Kết hợp giữa luật công và luật tư"],
+        "correct": 3
+    },
+    {
+        "question": "Ai có thẩm quyền ban hành các quy định về an toàn hàng không tại Việt Nam?",
+        "answers": ["Bộ Giao thông Vận tải", "Cục Hàng không Việt Nam", "Thủ tướng Chính phủ", "Quốc hội"],
+        "correct": 1
+    },
+    {
+        "question": "Quy định nào điều chỉnh việc xử phạt vi phạm hành chính trong lĩnh vực hàng không?",
+        "answers": ["Bộ luật Hình sự", "Nghị định Chính phủ", "Thông tư Bộ Giao thông Vận tải", "Hiến pháp"],
+        "correct": 1
+    },
+    {
+        "question": "Hãng hàng không có nghĩa vụ gì khi xảy ra tai nạn hàng không?",
+        "answers": ["Cứu hộ hành khách", "Thông báo cho cơ quan chức năng", "Hỗ trợ gia đình nạn nhân", "Tất cả các nghĩa vụ trên"],
+        "correct": 3
+    },
+    {
+        "question": "Chính phủ có thể áp dụng biện pháp nào để bảo vệ quyền lợi của hành khách?",
+        "answers": ["Áp giá trần vé máy bay", "Cấm khai thác đường bay vi phạm", "Quản lý chặt chất lượng dịch vụ", "Tất cả các biện pháp trên"],
+        "correct": 3
+    },
+    {
+        "question": "Chọn phát biểu Đúng trong những phát biểu sau:",
+        "answers": ["Cơ quan điều tra tai nạn và sự cố hàng không phải là một bộ phận chức năng của nhà chức trách hàng không", "Cơ quan điều tra tai nạn và sự cố hàng không phải được quản lý và giám sát bởi nhà chức trách hàng không", "Cơ quan điều tra tai nạn và sự cố hàng không phải độc lập với nhà chức trách hàng không", "Cả a và b đều đúng"],
+        "correct": 2
+    },
+    {
+        "question": "Khóa buồng lái của máy bay được thiết kế:",
+        "answers": ["Để chống đột nhập từ bên ngoài", "Để bảo vệ phi công khỏi hành khách", "Theo tiêu chuẩn an ninh hàng không", "Cả A và C"],
+        "correct": 3
+    },
+    {
+        "question": "Hệ thống quản lý an toàn hàng không SMS Không nhằm mục đích nào sau đây?",
+        "answers": ["Nhận diện mối nguy", "Đảm bảo thực hiện các hành động cần thiết để duy trì hiệu quả an toàn", "Kiểm soát liên tục và đánh giá thường xuyên hiệu quả an toàn", "Điều tra nguyên nhân của các sự cố, tai nạn và tìm ra ai sẽ phải chịu trách nhiệm cho những vấn đề đó"],
+        "correct": 3
+    },
+    {
+        "question": "Theo phụ lục số 13, các quốc gia báo cáo với ICAO thông tin liên quan đến tất cả các tai nạn tàu bay với trọng lượng cất cánh tối đa của tàu bay là bao nhiêu?",
+        "answers": ["2.250kg", "Trên 2.250kg", "5.700kg", "Trên 5.700kg"],
+        "correct": 1
+    },
+    {
+        "question": "Hoàn thành câu sau: 'Khi thực hiện các tiêu chuẩn và các thủ tục quốc tế, các quốc gia thành viên của ICAO cam kết thực hiện…trong việc thống nhất các quy tắc, tiêu chuẩn, thủ tục và các tổ chức liên quan tới tàu bay, nhân viên, đường hàng không và dịch vụ trợ giúp trong tất cả các lĩnh vực.'",
+        "answers": ["Cao nhất", "100%", "Trong khả năng", "Theo quy định quốc gia"],
+        "correct": 0
+    },
+    {
+        "question": "Hoàn thành câu sau: 'An toàn là trạng thái trong đó rủi ro thiệt hại về người hoặc tài sản được giảm xuống và duy trì bằng hoặc dưới mức chấp nhận được thông qua một quá trình liên tục ............... .'",
+        "answers": ["Các hoạt động an ninh và quản trị an toàn", "Xác định mối nguy và quản trị rủi ro", "Xác định khủng hoảng và quản trị rủi ro", "Xác định mối nguy và quản trị an toàn"],
+        "correct": 1
+    },
+    {
+        "question": "Pháp luật của quốc gia…được áp dụng với các cơ quan hệ xã hội phát sinh trong tàu bay đang bay và áp dụng dùng để xác định các quyền đối với tàu bay.",
+        "answers": ["Nơi tàu bay khai thác", "Nơi tàu bay đang bay", "Nơi đăng ký quốc tịch tàu bay", "Nơi xảy ra quan hệ xã hội"],
+        "correct": 2
+    },
+    {
+        "question": "Pháp luật của quốc gia…được áp dụng đối với việc trả tiền công cứu hộ hoặc giữ gìn tàu bay đó.",
+        "answers": ["Nơi thực hiện việc cứu hộ và giữ gìn tàu bay", "Nơi xảy ra tai nạn", "Nơi đăng ký quốc tịch tàu bay", "Nơi ký kết hợp đồng"],
+        "correct": 0
+    },
+    {
+        "question": "Cơ quan nào sau đây có trách nhiệm cao nhất quản lý nhà nước về hàng không dân dụng?",
+        "answers": ["Cục hàng không dân dụng", "Chính phủ", "Cảng vụ hàng không", "Bộ giao thông vận tải"],
+        "correct": 3
+    },
+    {
+        "question": "Theo nguyên tắc pháp luật, trường hợp có sự khác nhau giữa quy định của Luật hàng không dân dụng với quy định của Luật khác về cùng một nội dung liên quan đến hoạt động hàng không dân dụng thì áp dụng quy định của:",
+        "answers": ["Luật chuyên ngành", "Điều ước quốc tế", "Luật hàng không dân dụng", "Cả 3 đáp án trên đều đúng"],
+        "correct": 2
+    },
+    {
+        "question": "Hành khách được phép mang bao nhiêu chất lỏng lên máy bay (theo ICAO)?",
+        "answers": ["50ml", "100ml", "200ml", "Không giới hạn"],
+        "correct": 1
+    },
+    {
+        "question": "Hành vi nào dưới đây là hành vi nghiêm cấm trong hoạt động hàng không dân dụng?",
+        "answers": ["Sử dụng tàu bay, động cơ tàu bay, cánh quạt tàu bay và các trang bị, thiết bị hàng không mà không có các giấy phép phù hợp.", "Thực hiện nhiệm vụ của nhân viên hàng không mà không có các chứng chỉ phù hợp.", "Bay vào khu vực hạn chế, khu vực cấm bay trái quy định.", "Cả 3 đáp án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Hoàn thành câu sau: 'Cung cấp các thông tin sai đến mức uy hiếp an toàn của tàu bay đang bay hoặc trên mặt đất; an toàn của hành khách, tổ bay, nhân viên mặt đất hoặc người tại cảng hàng không, sân bay và công trình, trang bị, thiết bị hàng không dân dụng.' Là:",
+        "answers": ["Hành vi vi phạm hành chính", "Hành vi vi phạm hình sự", "Hành vi can thiệp bất hợp pháp", "Cả B và C đều đúng"],
+        "correct": 3
+    },
+    {
+        "question": "Nếu phát hiện một gói đồ khả nghi tại sân bay, nhân viên an ninh phải:",
+        "answers": ["Kiểm tra ngay lập tức", "Cách ly khu vực và báo cáo cấp trên", "Hỏi người xung quanh về gói đồ", "Phớt lờ nếu không gây nguy hiểm ngay"],
+        "correct": 1
+    },
+    {
+        "question": "Theo quy định tại Thông tư 17, sự cố phương tiện va chạm với phương tiện, trang thiết bị hoặc với người tại cảng hàng không, sân bay, được phân loại tương đương với mức nào?",
+        "answers": ["Sự cố nghiêm trọng (mức B)", "Sự cố uy hiếp an toàn mức cao (mức C)", "Sự cố nguy cơ uy hiếp an toàn (mức D)", "Vụ việc (mức E)"],
+        "correct": 2
+    },
+    {
+        "question": "Theo quy định tại Thông tư 17, sự cố gây hư hỏng phương tiện, trang thiết bị hoạt động trong khu bay được phân loại như thế nào?",
+        "answers": ["Sự cố nghiêm trọng (mức B)", "Sự cố uy hiếp an toàn mức cao (mức C)", "Sự cố nguy cơ uy hiếp an toàn (mức D)", "Vụ việc (mức E)"],
+        "correct": 1
+    },
+    {
+        "question": "Trường hợp máy bay đã dừng hẳn tại bãi đỗ, bánh trước máy bay đã được chèn nhưng động cơ chính và đèn chống va chạm chưa tắt, cầu ống hành khách có được phép tiếp cận cửa hành khách phía sau của máy bay không?",
+        "answers": ["Được phép", "Được phép tiếp cận khi có sự đồng ý của thợ máy mặt đất", "Được phép tiếp cận khi có sự đồng ý của cơ trưởng", "Không được phép"],
+        "correct": 3
+    },
+    {
+        "question": "Hoàn thành câu sau: 'An ninh hàng không là việc sử dụng kết hợp các biện pháp, nguồn nhân lực, trang bị, thiết bị để…với hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng, bảo vệ an toàn cho tàu bay, hành khách, tổ bay và những người dưới mặt đất.'",
+        "answers": ["Ngăn chặn và đối phó", "Phòng ngừa, ngăn chặn và tố cáo", "Phòng ngừa, ngăn chặn và đối phó", "Phòng ngừa và đối phó"],
+        "correct": 2
+    },
+    {
+        "question": "Thời hiệu khởi kiện yêu cầu bồi thường thiệt hại đối với người thứ ba ở mặt đất là…, kể từ ngày phát sinh sự kiện gây thiệt hại.",
+        "answers": ["01 năm", "02 năm", "03 năm", "05 năm"],
+        "correct": 1
+    },
+    {
+        "question": "Tòa án Việt Nam có thẩm quyền giải quyết tranh chấp phát sinh từ hợp đồng vận chuyển hàng không quốc tế hành khách, hành lý, hàng hóa theo lựa chọn của người khởi kiện trong các trường hợp sau đây:",
+        "answers": ["Người vận chuyển có trụ sở chính hoặc địa điểm kinh doanh chính tại Việt Nam.", "Người vận chuyển có địa điểm kinh doanh và giao kết hợp đồng vận chuyển tại Việt Nam.", "Việt Nam là địa điểm đến của hành trình vận chuyển.", "Tất cả phương án trên đều đúng."],
+        "correct": 3
+    },
+    {
+        "question": "Thời hiệu khiếu nại trong trường hợp mất mát hàng hóa:",
+        "answers": ["05 ngày kể từ ngày nhận hàng.", "07 ngày kể từ ngày nhận hàng.", "14 ngày kể từ ngày nhận hàng.", "21 ngày kể từ ngày nhận hàng."],
+        "correct": 3
+    },
+    {
+        "question": "Kể từ ngày nhận được khiếu nại, Người vận chuyển phải thông báo cho người khiếu nại biết việc chấp nhận hoặc không chấp nhận khiếu nại trong thời hạn bao lâu?",
+        "answers": ["15 ngày", "21 ngày", "30 ngày", "45 ngày"],
+        "correct": 2
+    },
+    {
+        "question": "Thời hiệu khiếu nại trong trường hợp thiếu hụt, hư hỏng hàng hóa là:",
+        "answers": ["05 ngày kể từ ngày nhận hàng.", "07 ngày kể từ ngày nhận hàng.", "14 ngày kể từ ngày nhận hàng.", "21 ngày kể từ ngày nhận hàng."],
+        "correct": 2
+    },
+    {
+        "question": "Thời hiệu khiếu nại trong trường hợp vận chuyển chậm hành lý và hàng hóa là:",
+        "answers": ["05 ngày kể từ ngày người có quyền nhận đã nhận được hành lý và hàng hóa.", "07 ngày kể từ ngày người có quyền nhận đã nhận được hành lý và hàng hóa.", "14 ngày kể từ ngày người có quyền nhận đã nhận được hành lý và hàng hóa.", "21 ngày kể từ ngày người có quyền nhận đã nhận được hành lý và hàng hóa."],
+        "correct": 3
+    },
+    {
+        "question": "Ai là người có thẩm quyền khám xét tàu bay khi phát hiện có dấu hiệu vi phạm chủ quyền, an ninh quốc gia, an toàn hàng không, an ninh hàng không?",
+        "answers": ["Hãng hàng không", "Thanh tra hàng không", "Giám đốc cảng vụ hàng không", "Cả 3 đáp án trên đều đúng"],
+        "correct": 2
+    },
+    {
+        "question": "Trong trường hợp thuê, cho thuê có tổ bay, tàu bay được khai thác theo:",
+        "answers": ["Giấy chứng nhận người khai thác tàu bay của bên cho thuê.", "Giấy chứng nhận người khai thác tàu bay của bên thuê.", "Tùy vào thỏa thuận của các bên", "Giấy chứng nhận người khai thác tàu bay của nhà sản xuất tàu bay."],
+        "correct": 0
+    },
+    {
+        "question": "Trong trường hợp nào tàu bay bị tạm giữ?",
+        "answers": ["Vi phạm chủ quyền và an ninh quốc gia Việt Nam", "Có hành khách gây rối trên tàu bay", "Cả A và B đều đúng", "Cả A và B đều sai"],
+        "correct": 2
+    },
+    {
+        "question": "Tàu bay bị xóa đăng ký quốc tịch Việt Nam trong trường hợp nào?",
+        "answers": ["Bị tuyên bố mất tích", "Hư hỏng nặng không còn khả năng sửa chữa, phục hồi.", "Theo đề nghị của người đăng ký tàu bay, chủ sở hữu tàu bay, người nhận giao dịch bảo đảm, người cho thuê hoặc người bán tàu bay có điều kiện.", "Cả 3 đáp án trên đều đúng"],
+        "correct": 3
+    },
+    {
+        "question": "Điều nào sau đây là đúng khi nói về các vật phẩm bị cấm trong hành lý xách tay?",
+        "answers": ["Hành khách được mang theo dao nhỏ trong hành lý xách tay.", "Hành khách có thể mang chất lỏng nhưng không vượt quá 100 ml mỗi chai.", "Không có giới hạn nào về chất lỏng trong hành lý xách tay.", "Tất cả các chất lỏng đều bị cấm trong hành lý xách tay."],
+        "correct": 1
+    },
+    {
+        "question": "Quy định nào sau đây là đúng khi mang thuốc y tế lên máy bay?",
+        "answers": ["Thuốc y tế bị cấm mang lên máy bay dưới mọi hình thức.", "Chỉ được phép mang thuốc nếu đã khai báo trước với hãng hàng không.", "Có thể mang theo thuốc y tế, nhưng một số loại cần có giấy tờ chứng minh.", "Không cần bất kỳ giấy tờ nào khi mang thuốc y tế lên máy bay."],
+        "correct": 2
+    },
+    {
+        "question": "Theo quy định tại Thông tư 17, cơ quan, đơn vị nào chịu trách nhiệm tổ chức, quản lý, khai thác cảng hàng không, sân bay?",
+        "answers": ["Cảng vụ hàng không", "Người khai thác cảng hàng không", "Người khai thác cảng hàng không và Cảng vụ hàng không", "Các Hãng hàng không và Người khai thác cảng hàng không"],
+        "correct": 1
+    },
+    {
+        "question": "Theo quy định tại Thông tư 17, cơ quan, đơn vị nào chịu trách nhiệm bảo đảm an toàn hàng không, an ninh hàng không và chất lượng dịch vụ đáp ứng các tiêu chuẩn, điều kiện theo quy định?",
+        "answers": ["Cảng vụ hàng không", "Các Hãng hàng không", "Người khai thác cảng hàng không", "Cục Hàng không Việt Nam"],
+        "correct": 2
+    },
+    {
+        "question": "Giới hạn khu vực lân cận Cảng hàng không, sân bay, được quy định trong Luật HKDD Việt Nam như thế nào?",
+        "answers": ["8 km tính từ ranh giới Cảng hàng không, sân bay trở ra", "8 km tính từ điểm quy chiếu sân bay", "8 km tính từ đài kiểm soát không lưu tại sân bay", "8 km tính từ đường hạ cất cánh"],
+        "correct": 0
+    },
+    {
+        "question": "Hành khách được phép mang chất lỏng lên máy bay với điều kiện nào sau đây?",
+        "answers": ["Không có giới hạn về dung tích.", "Chỉ cần chất lỏng được đóng trong chai thủy tinh.", "Mỗi chai không được vượt quá 100 ml và phải được đựng trong túi nhựa trong suốt.", "Có thể mang theo bao nhiêu tùy thích, miễn là chúng được để trong hành lý ký gửi."],
+        "correct": 2
+    },
+    {
+        "question": "Hành khách được mang theo bao nhiêu hộp diêm hoặc bật lửa an toàn lên máy bay trong hành lý xách tay?",
+        "answers": ["Không được phép mang bất kỳ hộp diêm hoặc bật lửa nào.", "Chỉ được phép mang theo tối đa hai hộp diêm.", "Chỉ được phép mang theo một hộp diêm hoặc một bật lửa an toàn.", "Có thể mang theo không giới hạn số lượng bật lửa."],
+        "correct": 2
+    },
+    {
+        "question": "Theo quy định về hành lý xách tay trên các chuyến bay quốc tế, hành khách được phép mang theo chất lỏng với điều kiện nào sau đây?",
+        "answers": ["Mỗi chai không được vượt quá 50 ml và phải để trong túi nhựa trong suốt.", "Mỗi chai không được vượt quá 200 ml và phải để trong hộp kim loại kín.", "Mỗi chai không được vượt quá 100 ml và phải được đựng trong túi nhựa trong suốt, có dung tích không quá 1 lít.", "Không có giới hạn về dung tích chất lỏng nhưng phải được khai báo với nhân viên an ninh."],
+        "correct": 2
+    },
+    {
+        "question": "An ninh hàng không được thực hiện nhằm để...",
+        "answers": ["Bảo vệ an toàn cho tàu bay, hành khách, tổ bay", "Tất cả đều đúng", "Phòng ngừa hành vi can thiệp bất hợp pháp vào hoạt động HKDD", "Đối phó với hành vi can thiệp bất hợp pháp vào hoạt động HKDD"],
+        "correct": 1
+    },
+    {
+        "question": "Hầu hết tàu bay của các hãng hàng không sử dụng quy tắc bay IFR vì…",
+        "answers": ["Thời tiết cho phép", "Theo yêu cầu của quốc tế", "Muốn giảm nguy cơ va chạm", "Phi công có thể sử dụng điều khiển tự động"],
+        "correct": 2
+    },
+    {
+        "question": "Theo tính chất khai thác, có thể phân hãng hàng không thành:",
+        "answers": ["HHK khai thác thường lệ và HHK khai thác không thường lệ", "HHK toàn cầu và HHK khu vực", "HHK truyền thống và HHK chi phí thấp", "Không đáp án nào đúng"],
+        "correct": 0
+    },
+    {
+        "question": "Theo quy định của Luật HKDD Việt Nam, cơ quan nào thực hiện chức năng quản lý Nhà nước về hàng không dân dụng tại cảng hàng không, sân bay?",
+        "answers": ["Cục Hàng không Việt Nam", "Người khai thác cảng hàng không", "Cảng vụ hàng không", "Hãng hàng không"],
+        "correct": 2
+    },
+    {
+        "question": "Dịch vụ an ninh soi chiếu hành lý, hành khách tại cảng hàng không, sân bay do tổ chức nào cung cấp?",
+        "answers": ["Hãng hàng không", "Cảng hàng không", "Nhà chức trách hàng không", "Bộ công an"],
+        "correct": 1
+    },
+    {
+        "question": "Giao thông trong sân bay phải tuân thủ theo quy định nào?",
+        "answers": ["Tài liệu khai thác sân bay", "Quy định của pháp luật về giao thông", "Quy định của người khai thác cảng hàng không", "Tài liệu khai thác cảng hàng không, sân bay"],
+        "correct": 0
+    },
+    {
+        "question": "Cục Hàng không Việt Nam cấp lại giấy phép bị mất, hỏng trong thời hạn bao nhiêu ngày kể từ ngày nhận đủ hồ sơ theo quy định?",
+        "answers": ["03 ngày", "05 ngày", "07 ngày", "10 ngày"],
+        "correct": 1
+    },
+    {
+        "question": "Hãng hàng không Vietnam Airlines đang kinh doanh theo mô hình kinh doanh nào?",
+        "answers": ["Đầy đủ dịch vụ (FSC)", "Chi phí thấp (LCC)", "Lai tạo (Hybrid)", "Lai tạo nghiêng về chi phí thấp"],
+        "correct": 0
+    },
+    {
+        "question": "Cơ quan nào quản lý hoạt động hàng không dân dụng ở Việt Nam?",
+        "answers": ["Bộ Giao thông Vận tải", "Cục Hàng không Việt Nam", "Bộ Quốc phòng", "Bộ Tài chính"],
+        "correct": 1
+    },
+    {
+        "question": "Ai chịu trách nhiệm cấp giấy phép bay cho các chuyến bay quốc tế?",
+        "answers": ["ICAO", "Chính phủ quốc gia liên quan", "IATA", "Liên Hợp Quốc"],
+        "correct": 1
+    },
+    {
+        "question": "Theo pháp luật Việt Nam, sân bay thuộc loại tài sản:",
+        "answers": ["Tài sản tư nhân", "Tài sản công cộng", "Tài sản công thuộc quyền quản lý nhà nước", "Không thuộc loại nào trên"],
+        "correct": 2
+    },
+    {
+        "question": "Quy định pháp luật nào sau đây đảm bảo an ninh sân bay?",
+        "answers": ["Nghị định về an toàn hàng không", "Hiệp định Warsaw", "Nghị định về an ninh sân bay và hàng không", "Luật Thương mại"],
+        "correct": 2
+    },
+    {
+        "question": "Quyền kiểm soát không phận thuộc về:",
+        "answers": ["Quốc gia sở hữu lãnh thổ đó", "ICAO", "Liên minh châu Âu", "Quốc gia gần nhất"],
+        "correct": 0
+    },
+    {
+        "question": "Ai có trách nhiệm bảo đảm an toàn hàng hóa trong vận chuyển hàng không?",
+        "answers": ["Hãng hàng không", "Người gửi hàng", "Cơ quan hải quan", "Cả A và B"],
+        "correct": 3
+    },
+    {
+        "question": "Luật pháp quy định gì về kiểm tra hành lý?",
+        "answers": ["Có thể kiểm tra bất kỳ lúc nào", "Chỉ kiểm tra khi có sự đồng ý của hành khách", "Kiểm tra theo quy định an ninh", "Cả B và C"],
+        "correct": 2
+    },
+    {
+        "question": "An ninh hàng không là gì?",
+        "answers": ["An toàn cho máy bay khi cất/hạ cánh", "Bảo vệ hệ thống hàng không dân dụng khỏi các hành vi bất hợp pháp", "Đảm bảo lịch trình chuyến bay đúng giờ", "Giảm thiểu tai nạn trên không"],
+        "correct": 1
+    },
+
+    {
+        "question": "Quy định an ninh hàng không được điều chỉnh bởi cơ quan nào ở Việt Nam?",
+        "answers": ["Bộ Giao thông Vận tải", "Cục Hàng không Việt Nam", "Bộ Công an", "Bộ Quốc phòng"],
+        "correct": 1
+    },
+
+    {
+        "question": "Mục tiêu chính của an ninh hàng không là gì?",
+        "answers": ["Đảm bảo máy bay bay đúng giờ", "Ngăn chặn các hành vi can thiệp bất hợp pháp", "Tăng lợi nhuận cho các hãng bay", "Giảm chi phí hoạt động"],
+        "correct": 1
+    },
+
+    {
+        "question": "ICAO đưa ra các tiêu chuẩn về an ninh hàng không trong:",
+        "answers": ["Phụ lục 12", "Phụ lục 17", "Phụ lục 19", "Phụ lục 10"],
+        "correct": 1
+    },
+
+    {
+        "question": "Hành vi nào sau đây không thuộc phạm vi của an ninh hàng không?",
+        "answers": ["Đe dọa đánh bom máy bay", "Đưa hàng hóa nguy hiểm lên máy bay", "Bay không đúng lộ trình quy định", "Kinh doanh vé máy bay bất hợp pháp"],
+        "correct": 3
+    },
+
+    {
+        "question": "Theo pháp luật Việt Nam, hành vi can thiệp bất hợp pháp trong hàng không được xử lý theo:",
+        "answers": ["Luật Hình sự", "Luật Giao thông", "Luật Hàng không dân dụng", "Cả A và C"],
+        "correct": 3
+    },
+
+    {
+        "question": "Quy định pháp luật yêu cầu kiểm tra an ninh hành khách tại sân bay nhằm:",
+        "answers": ["Phát hiện và loại trừ các vật phẩm nguy hiểm", "Đảm bảo hành lý ký gửi đầy đủ", "Tăng tốc độ xử lý hành lý", "Đảm bảo lợi nhuận cho sân bay"],
+        "correct": 0
+    },
+
+    {
+        "question": "Hành khách bị từ chối lên máy bay nếu:",
+        "answers": ["Không xuất trình giấy tờ hợp lệ", "Không qua được kiểm tra an ninh", "Mang theo vật phẩm bị cấm", "Tất cả các đáp án trên"],
+        "correct": 3
+    },
+
+    {
+        "question": "Thiết bị nào sau đây không bắt buộc trong hệ thống an ninh sân bay?",
+        "answers": ["Máy quét X-ray", "Máy dò kim loại", "Thiết bị phát hiện chất nổ", "Máy bán hàng tự động"],
+        "correct": 3
+    },
+
+    {
+        "question": "Thời gian lưu trữ dữ liệu từ camera an ninh tại sân bay tối thiểu là bao lâu?",
+        "answers": ["15 ngày", "30 ngày", "60 ngày", "90 ngày"],
+        "correct": 1
+    },
+
+    {
+        "question": "Hành vi nào sau đây được coi là can thiệp bất hợp pháp vào hàng không?",
+        "answers": ["Gây rối trật tự trên máy bay", "Cướp máy bay", "Đặt vật phẩm nguy hiểm trong hành lý ký gửi", "Tất cả các hành vi trên"],
+        "correct": 3
+    },
+
+    {
+        "question": "Ai chịu trách nhiệm xử lý hành khách có hành vi gây rối trên máy bay?",
+        "answers": ["Cơ trưởng", "Tiếp viên hàng không", "Cảnh sát sân bay", "Cục Hàng không"],
+        "correct": 0
+    },
+
+    {
+        "question": "Vi phạm an ninh hàng không nghiêm trọng nhất là:",
+        "answers": ["Mang vật phẩm nguy hiểm lên máy bay", "Gây mất trật tự trên máy bay", "Cướp máy bay", "Đột nhập trái phép vào sân bay"],
+        "correct": 2
+    },
+
+    {
+        "question": "Hành vi đe dọa đánh bom máy bay có thể bị phạt:",
+        "answers": ["Phạt tiền hành chính", "Tù từ 3 đến 15 năm", "Tịch thu tài sản", "Tất cả các biện pháp trên"],
+        "correct": 1
+    },
+
+    {
+        "question": "Vi phạm nào sau đây liên quan đến hàng hóa nguy hiểm trong hàng không?",
+        "answers": ["Vận chuyển chất nổ không khai báo", "Mang theo hóa chất dễ cháy", "Đóng gói hàng hóa không đúng quy định", "Tất cả các đáp án trên"],
+        "correct": 3
+    },
+    {
+        "question": "Cảng hàng không, sân bay chỉ được khai thác sau khi được cơ quan nào cấp Giấy chứng nhận khai thác cảng hàng không, sân bay?",
+        "answers": ["Bộ Giao thông vận tải", "Thủ tướng Chính phủ", "Hãng hàng không", "Cảng vụ hàng không"],
+        "correct": 0
+    },
+
+    {
+        "question": "Hành vi can thiệp bất hợp pháp vào hoạt động hàng không dân dụng là hành vi:",
+        "answers": ["Bắt giữ con tin trong tàu bay hoặc tại cảng hàng không, sân bay.", "Thực hiện nhiệm vụ khám xét tàu bay, cảng hàng không, sân bay và công trình trạng bị, thiết bị hàng không dân dụng.", "Loại bỏ vật phẩm nguy hiểm trên tàu bay, cảng hàng không, sân bay và khu vực hạn chế khác theo quy định pháp luật.", "Cả 3 đáp án trên đều đúng."],
+        "correct": 0
+    },
+
+    {
+        "question": "Doanh nghiệp nào là doanh nghiệp kinh doanh dịch vụ hỗ trợ vận chuyển hàng không?",
+        "answers": ["Doanh nghiệp cung cấp xăng dầu hàng không", "Doanh nghiệp kinh doanh vận chuyển hàng không.", "Doanh nghiệp cảng hàng không.", "Tất cả đáp án trên đều đúng."],
+        "correct": 0
+    },
+
+    {
+        "question": "Máy quét X-ray tại sân bay dùng để kiểm tra:",
+        "answers": ["Hành lý ký gửi", "Hành lý xách tay", "Cả A và B", "Chỉ các vật phẩm kim loại"],
+        "correct": 2
+    },
+
+    {
+        "question": "Pháp luật yêu cầu hành khách phải:",
+        "answers": ["Hợp tác trong quá trình kiểm tra an ninh", "Ký vào biên bản nếu phát hiện vật phẩm cấm", "Thông báo trước nếu mang theo vật phẩm cần khai báo", "Tất cả các đáp án trên"],
+        "correct": 3
+    },
+
+    {
+        "question": "Cơ quan nào giám sát việc thực hiện an ninh tại sân bay?",
+        "answers": ["Cục Hàng không", "Bộ Công an", "Ban quản lý sân bay", "Cả 3 cơ quan trên"],
+        "correct": 3
+    },
+
+    {
+        "question": "Vật phẩm nào sau đây không bị cấm mang lên máy bay?",
+        "answers": ["Nước uống dưới 100ml", "Dao găm", "Chất dễ cháy", "Súng hơi"],
+        "correct": 0
+    },
+
+    {
+        "question": "Hành khách nào được miễn kiểm tra an ninh?",
+        "answers": ["Không có hành khách nào được miễn kiểm tra", "Quan chức ngoại giao cấp cao", "Hành khách VIP", "Người tàn tật"],
+        "correct": 0
+    },
+
+    {
+        "question": "Khi có đe dọa đánh bom máy bay, bước đầu tiên là:",
+        "answers": ["Báo cho cơ quan an ninh", "Dừng chuyến bay", "Di tản hành khách", "Tìm kiếm bom trên máy bay"],
+        "correct": 0
+    },
+
+    {
+        "question": "Máy bay bị cướp sẽ sử dụng mã tín hiệu nào để báo động?",
+        "answers": ["7400", "7500", "7600", "7700"],
+        "correct": 1
+    },
+    {
+        "question": "Trong trường hợp tai nạn hàng không, trách nhiệm chính điều tra thuộc về:",
+        "answers": ["Cục Hàng không Việt Nam", "ICAO", "Bộ Giao thông Vận tải", "Tòa án quốc tế"],
+        "correct": 0
+    },
+
+    {
+        "question": "Nếu có hành khách gây rối trên máy bay, tiếp viên hàng không phải:",
+        "answers": ["Báo ngay cho cơ trưởng", "Khóa hành khách vào ghế", "Gọi cảnh sát khi máy bay hạ cánh", "Cả A, B và C"],
+        "correct": 3
+    },
+
+    {
+        "question": "Cơ quan nào có quyền kiểm tra đột xuất quy trình an ninh hàng không tại sân bay?",
+        "answers": ["Cục Hàng không Việt Nam", "Bộ Công an", "Ban quản lý sân bay", "Cả A và B"],
+        "correct": 3
+    },
+
+    {
+        "question": "Quy định về kiểm tra hành khách và hành lý xách tay áp dụng cho:",
+        "answers": ["Tất cả hành khách lên máy bay", "Chỉ hành khách quốc tế", "Chỉ hành khách nội địa", "Chỉ áp dụng khi có cảnh báo an ninh"],
+        "correct": 0
+    },
+
+    {
+        "question": "Vi phạm an ninh hàng không có thể bị xử lý hành chính hoặc hình sự với mức phạt tối đa:",
+        "answers": ["50 triệu đồng", "100 triệu đồng", "200 triệu đồng", "Tùy theo mức độ vi phạm"],
+        "correct": 3
+    }
+]
